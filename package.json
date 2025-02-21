@@ -1,0 +1,17 @@
+{
+  "name": "vue-insights",
+  "version": "0.0.3",
+  "description": "",
+  "main": "index.js",
+  "packageManager": "pnpm@10.4.1",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "node index.js"
+  },
+  "keywords": [],
+  "author": "NavidTM",
+  "license": "ISC",
+  "dependencies": {
+    "@vue/compiler-sfc": "^3.5.13"
+  }
+}
